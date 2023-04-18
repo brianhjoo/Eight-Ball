@@ -1,4 +1,4 @@
-
+/**takes in answers array of objects and returns random object */
 function getRandom(answers) {
   const randidx = Math.floor(Math.random() * answers.length);
 
@@ -6,4 +6,4 @@ function getRandom(answers) {
 }
 
 
-export default getRandom;
+export default getRandom; //better to not be default

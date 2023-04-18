@@ -1,3 +1,4 @@
+/**Array of objects for eightball answers */
 const answers = [
   { msg: "It is certain.", color: "green" },
   { msg: "It is decidedly so.", color: "green" },
